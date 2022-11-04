@@ -1,3 +1,5 @@
+# Este é um projeto feito para testes e aprendizado de GIT!
+
 # Sistema de cadastro de jogos
 
 > Status do projeto: Em desenvolvimento
