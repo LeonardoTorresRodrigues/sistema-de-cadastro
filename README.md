@@ -1,5 +1,10 @@
 # Este é um projeto feito para testes e aprendizado de GIT!
 
+## Estudo sobre:
+
+- Comandos Git
+- Branchs
+
 # Sistema de cadastro de jogos
 
 > Status do projeto: Em desenvolvimento
