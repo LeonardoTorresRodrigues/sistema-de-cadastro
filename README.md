@@ -4,6 +4,8 @@
 
 - Comandos Git
 - Branchs
+- Merge
+- SSH
 
 # Sistema de cadastro de jogos
 
